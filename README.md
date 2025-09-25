@@ -10,4 +10,4 @@ Simple Minecraft server status js
 
 Already integrated in my personal blog -> Display Page: https://zhi-jiao.github.io/Minecraft/
 
-<img width="1081" height="623" alt="image" src="https://github.com/user-attachments/assets/5ceb9caf-6db3-4b72-beee-150dcca10997" />
+<img  alt="image" src="https://github.com/user-attachments/assets/5ceb9caf-6db3-4b72-beee-150dcca10997" />
